@@ -30,13 +30,13 @@ The dataset includes the following columns:
 
 ## Analytical Tasks
 
-![Screenshot 2024-12-28 212844](https://github.com/user-attachments/assets/8d8e9503-9514-4c1b-bbd1-ca22643c26dc)
-![Screenshot 2024-12-28 212836](https://github.com/user-attachments/assets/5dfeae56-fd6a-4be4-98e7-d7cd107d18cd)
-![Screenshot 2024-12-28 212751](https://github.com/user-attachments/assets/cb2949cf-26f6-4c8d-9ab9-cd0d38fc47f1)
-![Screenshot 2024-12-28 212724](https://github.com/user-attachments/assets/0d6db03c-5bfa-4aac-9193-ec0786085010)
-![Screenshot 2024-12-28 212917](https://github.com/user-attachments/assets/acefbf98-65f9-40a8-bb3f-7b2d1f49e194)
-![Screenshot 2024-12-28 212908](https://github.com/user-attachments/assets/a6359f65-386d-4c73-affb-1e76ffb125e4)
-![Screenshot 2024-12-28 212856](https://github.com/user-attachments/assets/e02387ef-d0b0-49a6-881c-f5963a2a1aa0)
-![Screenshot 2024-12-28 212824](https://github.com/user-attachments/assets/3b4c68de-0130-4088-905e-76e56a9fb0fe)
-![Screenshot 2024-12-28 212814](https://github.com/user-attachments/assets/6f93eaf6-4005-4f99-b38f-59812add773d)
-![Screenshot 2024-12-28 212802](https://github.com/user-attachments/assets/3a756d48-4e50-4425-a9e9-8389be3c89c7)
+![Screenshot 2024-12-28 212917](https://github.com/user-attachments/assets/005f9193-529c-49c7-97ca-9fbd33a05402)
+![Screenshot 2024-12-28 212908](https://github.com/user-attachments/assets/baaa2a0b-9e2c-44cd-b177-3949f703e1c0)
+![Screenshot 2024-12-28 212856](https://github.com/user-attachments/assets/c02a014f-53be-4b44-8540-620de1f6c1b7)
+![Screenshot 2024-12-28 212844](https://github.com/user-attachments/assets/a1f10b09-ea31-49ca-a2fe-8a6e6216d7b6)
+![Screenshot 2024-12-28 212836](https://github.com/user-attachments/assets/9bb54588-0d96-4eee-88a8-fac1d1890560)
+![Screenshot 2024-12-28 212824](https://github.com/user-attachments/assets/498d4072-a26b-4ea0-a0ae-4bc7253cad76)
+![Screenshot 2024-12-28 212814](https://github.com/user-attachments/assets/2584b5bf-ebbf-41c9-855c-e88f9858f98a)
+![Screenshot 2024-12-28 212802](https://github.com/user-attachments/assets/0e867baa-dfb2-4d0f-9400-eea290dca5dd)
+![Screenshot 2024-12-28 212751](https://github.com/user-attachments/assets/91c00f95-0892-4422-8aaa-329ccec08d5f)
+![Screenshot 2024-12-28 212724](https://github.com/user-attachments/assets/9733c28f-9e06-414a-bdbf-32c8e257f845)
